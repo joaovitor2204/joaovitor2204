@@ -1,7 +1,6 @@
 ### Olá 👋 Sou João Vitor, estudante de programação 💻
 
 - 📚 Atualmente estudo programação Full-Stack
-- 📫 contato: joao.adm57@gmail.com
 - ⚡ Fato: JavaScrip é minha linguagem de programação favorita 😍 
 
 <div align="center">
