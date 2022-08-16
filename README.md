@@ -1,6 +1,5 @@
 ### Olá 👋 Sou João Vitor, estudante de programação 💻
 
-- 📚 Atualmente estudo programação Full-Stack
 
 <div align="center">
   <a href="https://github.com/joaovitor2204">
